@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-google-genai
+sqlglot>=23.0.0
+python-dotenv
+rich
+fastapi
+uvicorn[standard]
+boto3>=1.34.0
+langchain-aws>=0.2.0
